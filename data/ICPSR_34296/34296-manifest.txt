@@ -1,0 +1,84 @@
+File Manifest for ICPSR 34296
+
+Boeri, Miriam , and Thor Whalen. Older Drug Users: A Life Course Study of
+Turning Points in Drug Use [in a large Southeastern Metropolitan Area],
+2009-2010. ICPSR34296-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2012-07-31.
+http://doi.org/10.3886/ICPSR34296.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34296-related_literature.txt        -       -         -       2017-04-11  -
+
+    34296-manifest.txt                  -       -         -       2017-04-12  -
+
+    34296-User_guide.pdf                -       -         -       2012-07-31  53427b7e104d4a8dee676d8f1d83eb13
+
+
+DS0001 Substance Use - Past 30 Days
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34296-0001-Data.dta                 -       92        239     2012-07-31  6d5dceb33ac2ddff963b3e1366785f1d
+
+    34296-0001-Data.sav                 -       92        239     2012-07-31  887ab8382c60765e4d96f94a6e06c405
+
+    34296-0001-Data.stc                 -       92        239     2012-07-31  de951e5ad83242df0a9b69f5bd22b1e1
+
+    34296-0001-Data.tsv                 -       92        239     2012-07-31  4e553e8cab98e2f758fdd415daafeb96
+
+    34296-0001-Data.txt                 2508    92        239     2012-07-31  f71ded18b57cfc53fb5a9eadc48d3122
+
+    34296-0001-Frequencies.pdf          -       -         -       2012-07-31  71fcde41ace738f156fb69424504a6ea
+
+    34296-0001-Questionnaire.pdf        -       -         -       2012-07-31  bbc70c45a11342141eb6a22201c992ee
+
+    34296-0001-Setup.dct                -       -         -       2012-07-31  87459abd85b708fe2293fa9c0c7ad3ad
+
+    34296-0001-Setup.do                 -       -         -       2012-07-31  26a20d2aaa090b8a11844f095dd11ab9
+
+    34296-0001-Setup.sas                -       -         -       2012-07-31  cbba02aa947f90fbe7f3f7081ec7d94e
+
+    34296-0001-Setup.sps                -       -         -       2012-07-31  2abc29432b85f817d6b0abe911d0b56a
+
+    34296-0001-Supplemental_syntax.do   -       -         -       2012-07-31  655e4c71f8a9da32d050dfeed7600ad6
+
+    34296-0001-Supplemental_syntax.sas  -       -         -       2012-07-31  4581b53631292627c5271b70c7a9870c
+
+
+DS0002 Substance Use - By Year
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34296-0002-Data.dta                 -       4,846     301     2012-07-31  783c0a0ae17135160cbc1e135846a63b
+
+    34296-0002-Data.sav                 -       4,846     301     2012-07-31  e7cb278bb27a99fc0bc22d4a6f8cf33c
+
+    34296-0002-Data.stc                 -       4,846     301     2012-07-31  da923908ccd517ac616b21d4a3f77f64
+
+    34296-0002-Data.tsv                 -       4,846     301     2012-07-31  5f8acd884dc433e7525efbbb216ea767
+
+    34296-0002-Data.txt                 3499    4,846     301     2012-07-31  5517a193e3d2d4f4f6ec0cea6f1c031c
+
+    34296-0002-Frequencies.pdf          -       -         -       2012-07-31  aff077f68b255c7011f5f294165e63c9
+
+    34296-0002-Questionnaire.pdf        -       -         -       2012-07-31  0674e86904adb820d9fb37e0bc4dd998
+
+    34296-0002-Setup.dct                -       -         -       2012-07-31  947db88a44e5aacafdab7187239c741d
+
+    34296-0002-Setup.do                 -       -         -       2012-07-31  73e9c17e2af3c6079d9043703c461d0c
+
+    34296-0002-Setup.sas                -       -         -       2012-07-31  3b9891964da1be8b90112f97ac4402e0
+
+    34296-0002-Setup.sps                -       -         -       2012-07-31  e78eba85867674ba7f6367ec8c2913f5
+
+    34296-0002-Supplemental_syntax.do   -       -         -       2012-07-31  824f9e43847a1312257d7a685b06c9be
+
+    34296-0002-Supplemental_syntax.sas  -       -         -       2012-07-31  086f6697a0bce97aa452b98ed7c73140
+
